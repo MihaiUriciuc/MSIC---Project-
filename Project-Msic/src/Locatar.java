@@ -1,6 +1,6 @@
 
 public class Locatar {
-	String nume;
-	String prenume;
-	int numar_ap;
+	String nume; /*Nume locatar*/
+	String prenume; /*Prenume locatar*/
+	int ap; /*numar apartament*/
 }

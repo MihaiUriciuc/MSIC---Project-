@@ -6,6 +6,6 @@ public class Date {
 	int rep; /*fondul de reparatii per locuinta*/
 	int suma; /*intretinerea pe luna curenta*/
 	int sal; /*suma de bani preluata de la fiecare apartament in parte pentru a 
-	           plati serviciile de curatenie si administrare bloc*/
-
+	           plati serviciile de curat*/
+    int nr_ap; /*numar persoane in apartament*/
 }
