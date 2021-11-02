@@ -8,4 +8,5 @@ public class Date {
 	int sal; /*suma de bani preluata de la fiecare apartament in parte pentru a 
 	           plati serviciile de curat*/
     int nr_ap; /*numar persoane in apartament*/
+    int nr_loc; /*numar locuitori din apartament*/
 }
