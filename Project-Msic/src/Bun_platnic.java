@@ -1,8 +1,12 @@
 
 public class Bun_platnic extends Intretinere{
-	void Message1()
+	boolean Message1(boolean ver)
 	{if(restante==0)
-		System.out.println("Apartament fara restanta!");
+	{ver= true;
+	}else
+	{ver=false;}
+	
+	return ver;
 		
 	}
 		
