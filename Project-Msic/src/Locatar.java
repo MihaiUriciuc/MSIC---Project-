@@ -3,9 +3,16 @@ package src;
 
 
 public class Locatar extends Date{
-	String nume; /*Nume locatar*/
-	String prenume; /*Prenume locatar*/
-	int ap; /*numar apartament*/
+	private String nume; /*Nume locatar*/
+	private String prenume; /*Prenume locatar*/
 	
-	/*String names[] = new String[n]; */
+	public void setNume(String nume)
+	{
+	    this.nume=nume;	
+	}
+	
+	public void setPrenume(String prenume)
+	{
+		this.prenume=prenume;
+	}
 }

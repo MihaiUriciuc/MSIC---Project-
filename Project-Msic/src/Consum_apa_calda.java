@@ -1,12 +1,12 @@
 package src;
 
 
-public class Consum_apa_calda extends Consum_apa_rece{
-	public float apa_calda(float apa_r)
+public class Consum_apa_calda extends Date{
+	public float apa_calda(float apa_c)
 	{
-		apa_r= (float) (c_apa_calda*3); /*valoarea consumului de apa rece*/ 
+		apa_c= (float) (c_apa_calda*3); /*valoarea consumului de apa rece*/ 
 
-		return apa_r;
+		return apa_c;
 		
 	}
 	/*float apa_c= apa_calda*3; /*valoarea consumului de apa calda*/
