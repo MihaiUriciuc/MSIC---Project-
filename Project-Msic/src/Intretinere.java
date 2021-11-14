@@ -1,3 +1,5 @@
+package src;
+
 
 public class Intretinere extends Val_energ{
 	float calcul_intretinere(float intretinere) /*suma intretinere*/

@@ -1,3 +1,5 @@
+package src;
+
 
 public class Bun_platnic extends Intretinere{
 	boolean Message1(boolean ver)

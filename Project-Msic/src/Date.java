@@ -1,6 +1,4 @@
-import static java.util.Collections.sort();
-
-
+package src;
 
 public class Date {
 	float c_apa_rece; /*valoarea consumului de apa rece pe luna curenta in m3*/

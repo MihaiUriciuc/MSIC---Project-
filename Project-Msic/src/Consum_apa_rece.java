@@ -1,3 +1,5 @@
+package src;
+
 
 public class Consum_apa_rece extends Locatar {
 	public float apa_rece(float apa_r)

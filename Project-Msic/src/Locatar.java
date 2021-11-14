@@ -1,3 +1,5 @@
+package src;
+
 
 
 public class Locatar extends Date{
@@ -5,5 +7,5 @@ public class Locatar extends Date{
 	String prenume; /*Prenume locatar*/
 	int ap; /*numar apartament*/
 	
-	String names[] = new String[n];
+	/*String names[] = new String[n]; */
 }

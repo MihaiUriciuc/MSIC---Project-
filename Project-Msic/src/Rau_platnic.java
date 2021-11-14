@@ -1,3 +1,5 @@
+package src;
+
 
 public class Rau_platnic extends Bun_platnic{
 	boolean Message2(boolean ver)

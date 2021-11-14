@@ -1,3 +1,5 @@
+package src;
+
 import java.util.Scanner;
 
 public class Sortare_nume extends Rau_platnic{
