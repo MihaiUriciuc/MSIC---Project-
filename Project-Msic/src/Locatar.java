@@ -15,4 +15,5 @@ public class Locatar extends Date{
 	{
 		this.prenume=prenume;
 	}
+	
 }

@@ -2,6 +2,12 @@ package src;
 
 
 public class Intretinere extends Val_energ{
+	Date apa_rece;
+	Date apa_calda;
+	Date energie;
+	Date sdc;
+	Date sal;
+	
 	public float intretinere;
 	
 	float calcul_intretinere(float intretinere) /*suma intretinere*/
