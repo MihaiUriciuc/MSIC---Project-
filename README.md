@@ -1,3 +1,3 @@
 # MSIC---Project-
 Project made for master
-Voi reface tot proiectul
+Voi reface proiectul
